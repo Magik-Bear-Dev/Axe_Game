@@ -1,2 +1,2 @@
 # Axe_Game
-This is an Axe Game made for Raylib in C++
+This is a Axe Game made for Raylib in C++
